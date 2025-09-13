@@ -1,0 +1,46 @@
+site_name: Dokumentasi
+site_url: https://himaapp.github.io/documentation
+site_description: Dokumentasi project dan tutorial penerapan transformasi digital pada industri manufaktur
+
+theme:
+  name: material   
+  logo: assets/logo.png       # For top-left logo
+  favicon: assets/favicon.ico # For browser tab icon
+  features:
+    - navigation.tabs 
+    - navigation.top
+  palette:
+    - scheme: default    # Light theme
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    - scheme: slate      # Dark theme
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+markdown_extensions:
+  - pymdownx.emoji
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed
+  - pymdownx.keys
+  - pymdownx.tasklist
+  - pymdownx.tilde
+plugins:
+  - search
+  - awesome-pages
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://himaapp.github.io/
+    - icon: fontawesome/solid/store
+      link: https://himaapp.myr.id/
+    - icon: fontawesome/brands/blogger
+      link: https://www.himaapp.my.id/   
