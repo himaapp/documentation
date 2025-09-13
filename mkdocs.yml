@@ -40,7 +40,9 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://himaapp.github.io/
-    - icon: fontawesome/solid/store
+    - icon: fontawesome/solid/cart-shopping
       link: https://himaapp.myr.id/
     - icon: fontawesome/brands/blogger
-      link: https://www.himaapp.my.id/   
+      link: https://www.himaapp.my.id/  
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/himawan-susanto/   

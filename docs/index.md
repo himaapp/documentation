@@ -41,6 +41,8 @@ Panduan step-by-step buat kamu yang mau bikin sendiri:
 - Praktek Arduino, Raspberry Pi dan ESP8266
 - Komunikasi antar perangkat dan aplikasi IoT
 - Excel automation menggunakan VBA dan AddIn
+- Praktek programming menggunakan VB.Net
+- Instalasi aplikasi untuk kebutuhan Server berbasis Debian Linux
 - Tips dan Trik dalam menerapkan Transformasi Digital di dunia Industri
 
 ## 🌍 Kenapa Penting?
